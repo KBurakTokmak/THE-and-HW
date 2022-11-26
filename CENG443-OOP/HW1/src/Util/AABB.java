@@ -9,7 +9,7 @@ import static java.lang.Math.abs;
  */
 public class AABB
 {
-    private class Hit
+    private class Hit //nested class for hitboxes check
     {
         public float offsetX;
         public float offsetY;

@@ -1,9 +1,21 @@
 package Actors;
 
+import Util.Position2D;
+
 import java.awt.*;
 
 public class Player extends AbstractActor
 {
+    /**
+     * Constructor, directly sets the every parameter
+     *
+     * @param pos "top right" (wrt. the screen coordinates) of the box
+     * @param szX horizontal size of the box in pixels
+     * @param szY vertical size of the box in pixels
+     */
+    public Player(Position2D<Float> pos, float szX, float szY) {
+        super(pos, szX, szY);
+    }
 
     // TODO:
 
@@ -17,5 +29,6 @@ public class Player extends AbstractActor
     public boolean isDead()
     {
         // TODO:
+        return false;
     }
 }

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="390534f1-6af9-4a25-b865-e9848628fe35" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Actors/AbstractActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actors/AbstractActor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actors/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actors/Bullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actors/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actors/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actors/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actors/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actors/PowerUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actors/PowerUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actors/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actors/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Util/AABB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Util/AABB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Util/Position2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Util/Position2D.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I5FP2xZoYVbQ5of9f1XAbBIpzm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/kbt_git_repos/THE-and-HW/CENG443-OOP/HW1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="390534f1-6af9-4a25-b865-e9848628fe35" name="Changes" comment="" />
+      <created>1669463509902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669463509902</updated>
+      <workItem from="1669463511335" duration="6501000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -3,7 +3,7 @@ package Util;
 /**
  * Simple 2D position encapsulation
  */
-public class Position2D<T>
+public class Position2D<T>//Use T to either implement with int,float,double etc. later on
 {
     public T x;
     public T y;
